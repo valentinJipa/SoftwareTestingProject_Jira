@@ -13,7 +13,7 @@ Author: Valentin Jipa
 
 1. [Introduction](#Introduction)
 
-&nbsp;&nbsp;&nbsp;&nbsp;       1.2. [What is reddit](#what-is-reddit)
+&nbsp;&nbsp;&nbsp;&nbsp;                         1.2. [What is reddit](#what-is-reddit)
 
 
 
