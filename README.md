@@ -45,8 +45,6 @@ Here is an example of a story created for the search bar trending moduel:
 For this version of the application the functionalities in the scope of testing are:
 
 <ul>
-  <li>Project manager</li> 
-  <li>Product owner</li>
-  <li>Software developer</li>
-  <li>QA Engineer</li>
+  <li>The Home page module - encompasses the elements found on the front page of reddit...</li> 
+  <li>Search bar module - refers to the functionality and ui elements coresponding to the search algorithm of reddit...</li>
 </ul>
