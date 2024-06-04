@@ -12,6 +12,7 @@ Author: Valentin Jipa
 ## **Table of Contents**
 
 1. [Introduction](#Introduction)
+       1.2. [What is reddit](#Whatisreddit)
 
 
 
