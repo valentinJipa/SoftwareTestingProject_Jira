@@ -5,7 +5,7 @@ Application: https://www.reddit.com/
 
 Documentation:
 
-Api Documentation:
+Api Documentation: https://www.reddit.com/dev/api/#GET_search
 
 Author: Valentin Jipa
 
@@ -15,7 +15,9 @@ Author: Valentin Jipa
 
      1.2. [What is reddit](#what-is-reddit)
 
-     1.3. [Functional specifications](#functional-specifications)
+     1.3. [Project objective](#project-objective)
+
+     1.4. [Functional specifications](#functional-specifications)
 
 
 
@@ -38,3 +40,7 @@ The stories attach here were created in Jira and describe the functionality of t
 Here is an example of a story created for the search bar trending moduel:
 ![image](https://github.com/valentinJipa/ReposteryTest/assets/33808653/b76e527d-996f-427d-a937-e5d58aa52965)
 
+### Functinality in scope
+
+For this version of the application the functionalities in the scope of testing are:
+     * Home page
