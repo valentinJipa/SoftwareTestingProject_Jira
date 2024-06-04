@@ -43,4 +43,10 @@ Here is an example of a story created for the search bar trending moduel:
 ### Functinality in scope
 
 For this version of the application the functionalities in the scope of testing are:
-     * Home page
+
+<ul>
+  <li>Project manager</li> 
+  <li>Product owner</li>
+  <li>Software developer</li>
+  <li>QA Engineer</li>
+</ul>
