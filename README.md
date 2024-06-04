@@ -15,6 +15,8 @@ Author: Valentin Jipa
 
      1.2. [What is reddit](#what-is-reddit)
 
+     1.3. [Functional specifications](#functional-specifications)
+
 
 
 ## **Introduction**
