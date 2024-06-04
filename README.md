@@ -1,4 +1,4 @@
-### **Final Project for Manual testing course**
+## **Final Project for Manual testing course**
 
 ---
 
