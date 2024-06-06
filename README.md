@@ -19,9 +19,9 @@ Author: Valentin Jipa
 
      1.4. [Functional specifications](#functional-specifications)
 
-     1.5. [Functinality in scope](#functionality-in-scope)
+     1.5. [Functinality in scope](#functinality-in-scope)
 
-     1.6. [Functionalities and tests out of scope](#functionality-and-test-out-of-scope)
+     1.6. [Functionalities and tests out of scope](#functionalities-and-test-out-of-scope)
 
 
 
