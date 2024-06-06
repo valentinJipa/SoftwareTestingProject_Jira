@@ -23,7 +23,7 @@ Author: Valentin Jipa
 
      1.6. [Functionalities and tests out of scope](#functionalities-and-tests-out-of-scope)
 
-2. [Test Procces](#test-procces)
+2. [Test Process](#test-process)
 
     2.1. [Test Planning](#test-Planning)
 3. 
