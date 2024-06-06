@@ -22,9 +22,10 @@ Author: Valentin Jipa
      1.5. [Functinality in scope](#functinality-in-scope)
 
      1.6. [Functionalities and tests out of scope](#functionalities-and-tests-out-of-scope)
-   
+
 2. [Test Procces](#test-procces)
-     2.1. [Test Planning](#test-Planning)
+
+    2.1. [Test Planning](#test-Planning)
 3. 
 
 
