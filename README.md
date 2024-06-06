@@ -21,7 +21,11 @@ Author: Valentin Jipa
 
      1.5. [Functinality in scope](#functinality-in-scope)
 
-     1.6. [Functionalities and tests out of scope](#functionalities-and-test-out-of-scope)
+     1.6. [Functionalities and tests out of scope](#functionalities-and-tests-out-of-scope)
+   
+2. [Test Procces](#test-procces)
+     2.1. [Test Planning](#test-Planning)
+3. 
 
 
 
@@ -62,3 +66,7 @@ For this version of the application the functionalities in the scope of testing 
   <li>There will be no mobile support for the project, only the web app will be tested</li>
   <li>Automation testing is beyond the scope of the project</li>
 </ul>
+
+## **Test Process**
+
+### Test planning
