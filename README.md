@@ -47,4 +47,14 @@ For this version of the application the functionalities in the scope of testing 
 <ul>
   <li>The Home page module - encompasses the elements found on the front page of reddit...</li> 
   <li>Search bar module - refers to the functionality and ui elements coresponding to the search algorithm of reddit...</li>
+  <li>Throughtout the testing procces, functionality testing will be performed on 2 different browsers: firefox and chrome </li>  
+</ul>
+
+### Functionalities and tests out of scope
+
+<ul>
+  <li>All other modules besides home page and search bar will not be tested</li> 
+  <li>Non-functionality testing like performance and security testing will not be performed in the current project</li>
+  <li>There will be no mobile support for the project, only the web app will be tested</li>
+  <li>Automation testing is beyond the scope of the project</li>
 </ul>
