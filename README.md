@@ -76,4 +76,34 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 ### Entry criteria 
 
+<ul>
+     <li>Business requirments are completed and deliveredto the testing team for evaluation</li>
+     <li>Potential risks are detected and mitigated</li>
+     <li>Test plan for the two modules are finished and ready to be executed</li>
+     <li>The roles have been allocated</li>
+</ul>
 
+### Exit criteria
+
+<ul>
+     <li>All tests have been executed</li>
+     <li>At least 90% of test are passed</li>
+     <li>No critical or major issues remain unresolved</li>
+     <li>The bugs not resolved do not present a high risk</li>
+     <li>Test reports and status have been created and send to the production team</li>
+     <li>Deadline was reach successfully</li>
+</ul>
+
+### Project risks:
+
+<ul>
+     <li>Team is composed of one member which might affect the deadline</li>
+     <li>Team lacks the experince and knowledge to guaranteed level of quality desired</li>
+     <li>Not enough time can be allocated to test all functionalities of the scopes</li>
+</ul>
+
+### Product risks
+
+<ul>
+     <li>Only two modules are in the testing scope, leading to pottential risks for the rest of the functionalities not in scope</li>
+</ul>
