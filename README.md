@@ -49,7 +49,7 @@ Tools: Jira, Zephyr Squad
 
 ### Functional specifications: 
 
-The stories attach here were created in Jira and describe the functionality of the home page and search moduels.
+The stories attach [here](https://github.com/valentinJipa/ReposteryTest/blob/main/Jira_Stories.pdf) were created in Jira and describe the functionality of the home page and search moduels.
 
 Here is an example of a story created for the search bar trending moduel:
 ![image](https://github.com/valentinJipa/ReposteryTest/assets/33808653/b76e527d-996f-427d-a937-e5d58aa52965)
@@ -126,4 +126,6 @@ Below can be found example for a few test conditions created in the scope of the
 ![image](https://github.com/valentinJipa/ReposteryTest/assets/33808653/b0915b4f-fbfa-43cb-b0c7-78c485de850f)
 
 The full set of tests can be found in a comprehensive format [here](https://github.com/valentinJipa/ReposteryTest/blob/main/Jira_testCases.pdf).
+
+### Test Design
 
