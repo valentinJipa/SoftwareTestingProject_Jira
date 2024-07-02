@@ -25,7 +25,8 @@ Author: Valentin Jipa
 2. [Test Process](#test-process)
 
     2.1. [Test Planning](#test-Planning)
-3. 
+        2.1.1 [Entry criteria](#entry-criteria)
+   
 
 
 
