@@ -117,3 +117,12 @@ The plan identifies the items to be tested, the features to be tested, the types
 <ul>
      <li>Only two modules are in the testing scope, leading to pottential risks for the rest of the functionalities not in scope</li>
 </ul>
+
+### Test Analysis
+
+Test conditions will be performed after the business requirments
+
+Below can be found example for a few test conditions created in the scope of the project
+![image](https://github.com/valentinJipa/ReposteryTest/assets/33808653/b0915b4f-fbfa-43cb-b0c7-78c485de850f)
+
+The full set of tests can be found in a comprehensive format here.
