@@ -3,7 +3,6 @@
 
 Application: https://www.reddit.com/
 
-Documentation:
 
 Api Documentation: https://www.reddit.com/dev/api/#GET_search
 
@@ -40,7 +39,7 @@ Reddit is a social news website and forum where content is socially curated and 
 
 The scope of the project for ITF Manual Testing Course is to use all gained knowledge during the course and apply them on a live applicattion. The project consist of a test plan used to describe the strategies, planification and scope for the web application.
 
-Tools: Jira ...
+Tools: Jira, Zephyr Squad
 
 ### Functional specifications: 
 
@@ -48,6 +47,11 @@ The stories attach here were created in Jira and describe the functionality of t
 
 Here is an example of a story created for the search bar trending moduel:
 ![image](https://github.com/valentinJipa/ReposteryTest/assets/33808653/b76e527d-996f-427d-a937-e5d58aa52965)
+
+### Release
+
+Here can be found the release created for the project
+![image](https://github.com/valentinJipa/ReposteryTest/assets/33808653/c0fb0e40-5205-4645-8e76-a187ce3c47e6)
 
 ### Functinality in scope
 
@@ -74,7 +78,7 @@ For this version of the application the functionalities in the scope of testing 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
 
-### Entry criteria 
+### Entry criteria:
 
 <ul>
      <li>Business requirments are completed and deliveredto the testing team for evaluation</li>
@@ -83,7 +87,7 @@ The plan identifies the items to be tested, the features to be tested, the types
      <li>The roles have been allocated</li>
 </ul>
 
-### Exit criteria
+### Exit criteria:
 
 <ul>
      <li>All tests have been executed</li>
@@ -102,7 +106,7 @@ The plan identifies the items to be tested, the features to be tested, the types
      <li>Not enough time can be allocated to test all functionalities of the scopes</li>
 </ul>
 
-### Product risks
+### Product risks:
 
 <ul>
      <li>Only two modules are in the testing scope, leading to pottential risks for the rest of the functionalities not in scope</li>
