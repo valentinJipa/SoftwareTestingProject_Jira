@@ -167,3 +167,8 @@ The traceability matrix was generated and can be found here: [traceability matri
 
 Aswell as a screenshot for more convinience
 ![image](https://github.com/user-attachments/assets/609a294a-8e1f-49a4-8acf-f8bdf712b42b)
+
+Test execution chart was generated and can be found below.
+
+![image](https://github.com/user-attachments/assets/db36e3ba-665b-41ef-bf9c-0e2ab214c53b)
+
