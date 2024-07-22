@@ -168,7 +168,10 @@ The traceability matrix was generated and can be found here: [traceability matri
 Aswell as a screenshot for more convinience
 ![image](https://github.com/user-attachments/assets/609a294a-8e1f-49a4-8acf-f8bdf712b42b)
 
+
+
 Test execution chart was generated and can be found below.
 
 <img src="https://github.com/valentinJipa/ReposteryTest/blob/main/TestExecChart.JPG" alt="draw" width="520"/>
 
+The final report shows that a number 3 tests have failed of a total of 12. 2 Bugs were found , of which the priority is: 1 high priority and 2 medium
