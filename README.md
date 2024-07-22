@@ -26,13 +26,7 @@ Author: Valentin Jipa
 
     2.1. [Test Planning](#test-Planning)
    
-   2.1.1 [Entry criteria](#entry-criteria)
-   
-      2.1.2 [Exit criteria](#entry-criteria)
-
-      2.1.3 [Risks](#project-risks)
-
-   2.3. [Test Analysis](#project-risks)
+    2.2 [Test Analysis](#project-risks)
 
 
 ## **Introduction**
