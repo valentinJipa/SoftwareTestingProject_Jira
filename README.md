@@ -129,3 +129,5 @@ Below can be found example for a few test conditions created in the scope of the
 ### Test Design
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The full set of tests can be found in a comprehensive format [here](https://github.com/valentinJipa/ReposteryTest/blob/main/Jira_testCases.pdf).
+ <li> Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The full set of tests can be found in a comprehensive format [here](https://github.com/valentinJipa/ReposteryTest/blob/main/Jira_testCases.pdf). </li>
+ <li>Not enough time can be allocated to test all functionalities of the scopes</li>
