@@ -170,5 +170,5 @@ Aswell as a screenshot for more convinience
 
 Test execution chart was generated and can be found below.
 
-<img src="https://github.com/valentinJipa/ReposteryTest/blob/main/TestExecChart.JPG" alt="draw" width="150"/>
+<img src="https://github.com/valentinJipa/ReposteryTest/blob/main/TestExecChart.JPG" alt="draw" width="350"/>
 
