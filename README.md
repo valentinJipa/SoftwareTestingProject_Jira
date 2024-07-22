@@ -174,4 +174,5 @@ Test execution chart was generated and can be found below.
 
 <img src="https://github.com/valentinJipa/ReposteryTest/blob/main/TestExecChart.JPG" alt="draw" width="520"/>
 
-The final report shows that a number 3 tests have failed of a total of 12. 2 Bugs were found , of which the priority is: 1 high priority and 2 medium
+The final report shows that a number 3 tests have failed of a total of 12. 
+2 Bugs were found , of which the priority is: 1 high priority and 2 medium
