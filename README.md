@@ -156,6 +156,7 @@ Bugs have been reported for the failed tests encountered. A summary for the bugs
 </ul>
 
 A complete bug report for the issues above can be found [here](https://github.com/valentinJipa/ReposteryTest/blob/main/Jira_Bugs.pdf).
+
 A full regression on all impacted areas will be performed after the bugs are fixed. Retesting for the fixed issues will be done as well.
 
 ### Test closer
