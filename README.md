@@ -134,6 +134,7 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
      <li>Blackbox testing methods like equivalence partition and boundary value analysis for the creation of test cases</li>
  <ul>
 
+
  ### Test Implementation
 
  Before begining the test execeution, the following elements need to be ready:
