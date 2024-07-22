@@ -163,6 +163,7 @@ A full regression on all impacted areas will be performed after the bugs are fix
 ## **Test Closer**
 
 As the exit criterias were met and satisfied a, this feature is suggested to ‘Go Live’ by the testing team.
-The traceability matrix was generated and can be found here:[traceability matrix](https://github.com/valentinJipa/ReposteryTest/blob/main/Traceability_Matrix.xlsx)
+The traceability matrix was generated and can be found here: [traceability matrix](https://github.com/valentinJipa/ReposteryTest/blob/main/Traceability_Matrix.xlsx)
+
 Aswell as a screenshot for more convinience
 ![image](https://github.com/user-attachments/assets/609a294a-8e1f-49a4-8acf-f8bdf712b42b)
