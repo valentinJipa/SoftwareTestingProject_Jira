@@ -170,7 +170,5 @@ Aswell as a screenshot for more convinience
 
 Test execution chart was generated and can be found below.
 
-<img src=" drawing.jpg" alt="drawing" width="200"/>
-
-![image](https://github.com/user-attachments/assets/db36e3ba-665b-41ef-bf9c-0e2ab214c53b)
+<img src="![TestExecChart](https://github.com/user-attachments/assets/ba35e4d5-0f67-4c3d-a815-88cd5ae6ae77)" alt="drawing" width="150"/>
 
