@@ -144,3 +144,18 @@ Before begining the test execeution, the following elements need to be ready:
      <li>All test cases were added to jira in cycle summary</li>
 </ul>
 
+### Test Execution
+
+Test cases were executate once introduced in the cycle summary.
+Bugs have been reported for the failed tests encountered. A summary for the bugs the have been found can be seen below:
+![image](https://github.com/user-attachments/assets/00d9f0d5-3919-474b-b127-d25031669476)
+<ul>
+     <li>SJV-36 - Priority Medium, Severity Medium </li>
+     <li>SJV-35 - Priority Medium, Severity Medium </li>
+     <li>SJV-34 - Priority High, Severity Medium </li>
+</ul>
+
+A complete bug report for the issues above can be found [here](https://github.com/valentinJipa/ReposteryTest/blob/main/Jira_Bugs.pdf).
+A full regression on all impacted areas will be performed after the bugs are fixed. Retesting for the fixed issues will be done as well.
+
+### Test closer
