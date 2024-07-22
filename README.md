@@ -129,11 +129,10 @@ Below can be found example for a few test conditions created in the scope of the
 ### Test Design
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The full set of tests can be found in a comprehensive format [here](https://github.com/valentinJipa/ReposteryTest/blob/main/Jira_testCases.pdf).
-<ul>
-     <li>GUI and functionality test cases were create created in Zephyr squad</li>
-     <li>Blackbox testing methods like equivalence partition and boundary value analysis for the creation of test cases</li>
- <ul>
-
+     <ul>
+          <li>GUI and functionality test cases were create created in Zephyr squad</li>
+          <li>Blackbox testing methods like equivalence partition and boundary value analysis for the creation of test cases</li>
+      <ul>
 
  ### Test Implementation
 
