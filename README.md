@@ -26,8 +26,15 @@ Author: Valentin Jipa
 
     2.1. [Test Planning](#test-Planning)
    
-    2.2 [Test Analysis](#project-risks)
+    2.2 [Test Analysis](#test-analysis)
 
+    2.3 [Test Design](#test-design)
+
+    2.3 [Test Implementation](#test-implementation)
+
+    2.4 [Test Execution](#test-execution)
+
+3. [Test Closer](#test-closer)
 
 ## **Introduction**
 
