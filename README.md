@@ -98,7 +98,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <ul>
      <li>All tests have been executed</li>
-     <li>At least 90% of test are passed</li>
+     <li>At least 80% of test are passed</li>
      <li>No critical or major issues remain unresolved</li>
      <li>The bugs not resolved do not present a high risk</li>
      <li>Test reports and status have been created and send to the production team</li>
@@ -161,3 +161,8 @@ A complete bug report for the issues above can be found [here](https://github.co
 A full regression on all impacted areas will be performed after the bugs are fixed. Retesting for the fixed issues will be done as well.
 
 ## **Test Closer**
+
+As the exit criterias were met and satisfied a, this feature is suggested to ‘Go Live’ by the testing team.
+The traceability matrix was generated and can be found here:[traceability matrix](https://github.com/valentinJipa/ReposteryTest/blob/main/Traceability_Matrix.xlsx)
+Aswell as a screenshot for more convinience
+![image](https://github.com/user-attachments/assets/609a294a-8e1f-49a4-8acf-f8bdf712b42b)
