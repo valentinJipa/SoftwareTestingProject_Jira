@@ -3,9 +3,6 @@
 
 Application: https://www.reddit.com/
 
-
-Api Documentation: https://www.reddit.com/dev/api/#GET_search
-
 Author: Valentin Jipa
 
 ## **Table of Contents**
