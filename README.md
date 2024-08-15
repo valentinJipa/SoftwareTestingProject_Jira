@@ -31,7 +31,7 @@ Author: Valentin Jipa
 
     2.4 [Test Execution](#test-execution)
 
-3. [Test Closer](#test-closer)
+3. [Test Closure](#test-closer)
 
 ## **Introduction**
 
@@ -138,13 +138,13 @@ Before begining the test execeution, the following elements need to be ready:
 
 <ul>
      <li>The test environment is functional(Reddit home page)</li>
-     <li>Tester gas access to the environment in question</li>
+     <li>Tester has access to the environment in question</li>
      <li>All test cases were added to jira in cycle summary</li>
 </ul>
 
 ### Test Execution
 
-Test cases were executate once introduced in the cycle summary.
+Test cases were executed once introduced in the cycle summary.
 Bugs have been reported for the failed tests encountered. A summary for the bugs the have been found can be seen below:
 ![image](https://github.com/user-attachments/assets/00d9f0d5-3919-474b-b127-d25031669476)
 <ul>
@@ -157,9 +157,9 @@ A complete bug report for the issues above can be found [here](https://github.co
 
 A full regression on all impacted areas will be performed after the bugs are fixed. Retesting for the fixed issues will be done as well.
 
-## **Test Closer**
+## **Test Closure**
 
-As the exit criterias were met and satisfied, this feature is suggested to ‘Go Live’ by the testing team.
+As the exit criteria were met and satisfied, this feature is suggested to ‘Go Live’ by the testing team.
 The traceability matrix was generated and can be found here: [traceability matrix](https://github.com/valentinJipa/ReposteryTest/blob/main/Traceability_Matrix.xlsx)
 
 Aswell as a screenshot for more convinience
